@@ -1,10 +1,12 @@
-# sharedpref
+# Shared Preference App
 
-A new Flutter project.
+A new Flutter project using shared preference.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Shared Preferences is the way in which one can store and retrieve small amounts of primitive data.
+This app consists of one login screen in which user will enter his/her login credentials. Then, next welcome page will open & will show username which was entered by user.
+
 
 A few resources to get you started if this is your first Flutter project:
 
